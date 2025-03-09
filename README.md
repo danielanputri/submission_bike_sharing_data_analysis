@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Bike Sharing Dashboard Github Preview](https://github.com/danielanputri/Bike_Sharing_Data_Analysis/blob/main/preview.png)
+![Bike Sharing Dashboard Github Preview](https://github.com/danielanputri/submission_bike_sharing_data_analysis/blob/main/preview.png)
 
 ## Deskripsi
 
@@ -19,7 +19,7 @@ Project ini bertujuan untuk menganalisis data Bike Sharing Dataset. Tujuan akhir
 1. Clone repository ini ke computer/directory local Anda menggunakan perintah berikut:
 
    ```shell
-   git clone https://github.com/danielanputri/Bike_Sharing_Data_Analysis
+   git clone https://github.com/danielanputri/submission_bike_sharing_data_analysis
    ```
 
 2. Pastikan Anda memiliki requirements Python yang sesuai dan seluruh pustaka yang diperlukan. Anda dapat menginstall pustaka tersebut dengan menjalankan perintah berikut:
@@ -33,7 +33,7 @@ Project ini bertujuan untuk menganalisis data Bike Sharing Dataset. Tujuan akhir
 1. Masuk ke directory project (local):
 
    ```shell
-   cd bike_sharing_data_analysis/dashboard/
+   cd submission_bike_sharing_data_analysis/dashboard/
    streamlit run dashboard.py
    ```
 
