@@ -38,4 +38,4 @@ Project ini bertujuan untuk menganalisis data Bike Sharing Dataset. Tujuan akhir
    ```
 
 2. Buka website Streamlit ini:
-   [Project Data Analysis in Streamlit]()
+   [Project Data Analysis in Streamlit](https://bike-sharing-data-analysis-daniela.streamlit.app/)
